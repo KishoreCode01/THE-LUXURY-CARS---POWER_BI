@@ -25,3 +25,5 @@
 Reinforcement.pbix – Full interactive dashboard
 
 Power BI.pptx – Summary presentation
+
+Images of dashboard
